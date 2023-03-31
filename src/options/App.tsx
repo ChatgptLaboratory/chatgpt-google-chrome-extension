@@ -64,7 +64,7 @@ function OptionsPage(props: { theme: Theme; onThemeChange: (theme: Theme) => voi
             Changelog
           </a>
           <a
-            href="https://github.com/wong2/chat-gpt-google-extension/issues"
+            href="https://github.com/ChatgptLaboratory/chatgpt-google-chrome-extension/issues"
             target="_blank"
             rel="noreferrer"
           >
@@ -74,7 +74,7 @@ function OptionsPage(props: { theme: Theme; onThemeChange: (theme: Theme) => voi
             Twitter
           </a>
           <a
-            href="https://github.com/wong2/chat-gpt-google-extension"
+            href="https://github.com/ChatgptLaboratory/chatgpt-google-chrome-extension"
             target="_blank"
             rel="noreferrer"
           >

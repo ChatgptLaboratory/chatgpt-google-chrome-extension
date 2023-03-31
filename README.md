@@ -1,9 +1,9 @@
 # ChatGPT for Google
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/wong2/chatgpt-google-extension/pre-release-build.yml)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=wong2.chat-gpt-google-extension&left_color=green&right_color=red)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ChatgptLaboratory/chatgpt-google-extension/pre-release-build.yml)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ChatgptLaboratory.chatgpt-google-chrome-extension&left_color=green&right_color=red)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chatgpt4google?style=social)](https://twitter.com/chatgpt4google)
-![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
+![License](https://img.shields.io/github/license/ChatgptLaboratory/chatgpt-google-extension)
 
 ### Notice (2023-02-20)
 
