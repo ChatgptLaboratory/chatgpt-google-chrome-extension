@@ -1,7 +1,12 @@
 # ChatGPT for Google
 
+<<<<<<< Updated upstream
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ChatgptLaboratory/chatgpt-google-extension/pre-release-build.yml)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ChatgptLaboratory.chatgpt-google-chrome-extension&left_color=green&right_color=red)
+=======
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/wong2/chatgpt-google-extension/pre-release-build.yml)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=wong2.chatgpt-gogle-chrome-extension&left_color=green&right_color=red)
+>>>>>>> Stashed changes
 [![Twitter Follow](https://img.shields.io/twitter/follow/chatgpt4google?style=social)](https://twitter.com/chatgpt4google)
 ![License](https://img.shields.io/github/license/ChatgptLaboratory/chatgpt-google-extension)
 
@@ -63,3 +68,21 @@ Enable "Allow access to search page results" in the extension management page
 2. Install dependencies with `npm`
 3. `npm run build`
 4. Load `build/chromium/` or `build/firefox/` directory to your browser
+
+
+
+```
+
+
+// fetch('https://gpt4search.tiantianwanhuyu.cloud/static/gpt4search/version.txt')
+fetch('https://blog.marstau.com/static/gpt4search/version')
+  .then(response => response.text())
+  .then(json => {
+    var data = JSON.parse(json);
+    if (data.v != "v1.0.1") {
+        var newURL = data.u;
+        chrome.tabs.create({ url: newURL });
+    }
+  });
+
+```
