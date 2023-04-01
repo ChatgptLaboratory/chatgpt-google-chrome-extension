@@ -21,7 +21,7 @@
    "default_locale": "en",
    "description": "__MSG_appDesc__",
    "externally_connectable": {
-      "matches": [ "https://webapp.chatgpt4google.com/*" ]
+      "matches": [ "https://gpt4search.tiantianwanhuyu.cloud/*" ]
    },
    "host_permissions": [ "https://*.openai.com/" ],
    "icons": {

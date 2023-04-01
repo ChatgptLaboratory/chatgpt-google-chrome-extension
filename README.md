@@ -25,4 +25,5 @@ rename chat-gpt-google-extension to chatgpt-google-chrome-extension
 rename ChatGPT for Google to ChatGPT for Search
 modify manifest.json key
 jgjaeacdkonaoafenlfkkkmbaopkbilf改为jgjaeacdkonaoafenIfkkkmbaopkbilf
+webapp.chatgpt4google.com to gpt4search.tiantianwanhuyu.cloud
 chatgpt4google
