@@ -27,3 +27,8 @@ modify manifest.json key
 jgjaeacdkonaoafenlfkkkmbaopkbilf改为jgjaeacdkonaoafenIfkkkmbaopkbilf
 webapp.chatgpt4google.com to gpt4search.tiantianwanhuyu.cloud
 chatgpt4google
+replace icon
+
+The shared content will be uploaded to our server, and the content is visible to anyone who gets the link.
+
+https://webapp.chatgpt4google.com/uninstall-success
